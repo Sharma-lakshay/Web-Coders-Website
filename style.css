@@ -1,0 +1,89 @@
+body{
+    background-image: url(bg6.png);
+    background-size: cover;
+
+}
+
+#title{
+    background-color: burlywood;
+}
+
+#title1{
+    color: darkblue;
+}
+#rules{
+    tab-size: 12;
+}
+
+h3{
+    text-align: justify;
+    font-family: cursive;
+    color: antiquewhite;
+    font-size: 100;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    color: antiquewhite;
+    font-size: 100;
+}
+#left{
+    text-align: justify;
+    font-family: cursive;
+    color: antiquewhite;
+    font-size: 100;
+}
+#sub{
+    color: cyan;
+    font-family: monospace;
+    text-decoration: underline;
+    text-align: center;
+}
+
+a{
+    font-family: cursive;
+    color: white;
+    font-size: 100;
+}
+
+h1{
+    color: blue;
+    font-family: fantasy;
+    
+}
+
+#school {
+    color: rebeccapurple;
+    font-family: fantasy;
+}
+h4{
+    text-align: center;
+    font-family: cursive;
+    color: antiquewhite;
+}
+
+p{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+    padding-top: 100;
+    font-size: 100000;
+}
+#start{
+    color: oldlace;
+    font-family: serif;
+    
+}
+#home1 {
+    margin-left: 100;
+}
+p{
+    color: antiquewhite;
+    
+}
+#exam{
+    align-content: center
+}
+#mid{
+    align-content:  center;
+}
